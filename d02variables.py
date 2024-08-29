@@ -45,7 +45,7 @@ my_string = "InterviewBit"
 my_intstring = my_int + my_string
 NOTE: Above code will not work.
 
-Try the following example in the editor below.
+Try the following example.
 
 You have to assign the following values in the variable:
 
